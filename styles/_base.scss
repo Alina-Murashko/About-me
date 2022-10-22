@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    text-align: $primary-text-align;
+    font-family: $primary-font;
+    color: $font-color;
+    background-color: $background-primary;
+
+}

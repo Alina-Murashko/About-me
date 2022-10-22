@@ -1,0 +1,7 @@
+.menu {
+    font-size: 2rem;
+    text-align: right;
+    &__item:not(:last-child) {
+        margin-right: 20px;
+    }
+}
